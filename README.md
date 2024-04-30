@@ -1,6 +1,6 @@
 # graphics_hw4
 
-"graphics_hw4"는 Visual Studio Code", "CMake"를 기본 환경으로 수행되었습니다.
+"graphics_hw4"는 "Visual Studio Code", "CMake"를 기본 환경으로 수행되었습니다.
 
 # Directory Layout
 > + include
